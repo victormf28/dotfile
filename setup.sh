@@ -15,5 +15,6 @@ sudo bash bash/permisions.sh
 
 sudo bash bash/visual-code.sh
 
-# git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
-# source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git
+source ~/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
